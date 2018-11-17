@@ -1,4 +1,4 @@
-<span class="bigTitle">JavaScript For Cats</span>
+<span class="bigTitle">JavaScript For Cats!</span>
 ## An introduction for new programmers <span class="right">![cat](images/substack-cats.png)</span>
 ### *So easy your human companion could do it too!*
 
